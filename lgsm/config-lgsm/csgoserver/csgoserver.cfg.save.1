@@ -1,0 +1,22 @@
+##################################
+####### Instance Settings ########
+##################################
+# PLACE INSTANCE SETTINGS HERE
+## These settings will apply to a specific instance.
+
+gslt="62ACB533A571E99EF8C73BE10D8221F7"
+gametype="0"
+gamemode="0"
+ip="0.0.0.0"
+port="27015"
+clientport="27005"
+sourcetvport="27020"
+defaultmap="de_inferno"
+maxplayers="20"
+tickrate="128"
+
+wsapikey="7A1B4C2065E33CDC9FF9F0569AE84362"
+wscollectionid="2415525898"
+wsstartmap="2308283309"
+
+startparameters="-game csgo -usercon -strictportbind -ip ${ip} -port ${port} +clientport ${clientport} +tv_port ${sourcetvport} +sv_setsteamaccount ${gslt} -tickrate ${tickrate} +map ${defaultmap} +servercfgfile ${servercfg} -maxplayers_override ${maxplayers} +mapgroup ${mapgroup} +game_type ${gametype} +game_mode ${gamemode} +host_workshop_collection ${wscollectionid} +workshop_start_map ${wsstartmap} -authkey ${wsapikey} -nobreakpad"

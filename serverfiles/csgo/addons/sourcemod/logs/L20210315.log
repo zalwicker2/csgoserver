@@ -1,0 +1,107 @@
+L 03/15/2021 - 03:35:16: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 03:35:16: -------- Mapchange to de_mirage --------
+L 03/15/2021 - 03:35:19: -------- Mapchange to de_mirage --------
+L 03/15/2021 - 03:35:25: [randomcycle.smx] RandomCycle has chosen de_dust2 for the nextmap.
+L 03/15/2021 - 03:36:14: Log file closed.
+L 03/15/2021 - 03:46:23: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 03:46:23: -------- Mapchange to workshop/403493445/de_stgellert --------
+L 03/15/2021 - 03:46:27: -------- Mapchange to workshop/403493445/de_stgellert --------
+L 03/15/2021 - 03:46:34: [randomcycle.smx] RandomCycle has chosen workshop/1720704256/de_village for the nextmap.
+L 03/15/2021 - 03:49:21: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 03:49:26: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/1720704256/de_village.
+L 03/15/2021 - 03:49:46: [SM] Changed map to "workshop/1720704256/de_village"
+L 03/15/2021 - 03:49:50: -------- Mapchange to workshop/1720704256/de_village --------
+L 03/15/2021 - 03:49:57: [randomcycle.smx] RandomCycle has chosen workshop/225151817/de_bazaar for the nextmap.
+L 03/15/2021 - 03:50:59: [mapchooser.smx] Starting map vote because outside request
+L 03/15/2021 - 03:50:59: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 03:51:07: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/2308283309/de_priscus_v2.
+L 03/15/2021 - 03:52:37: [SM] Changed map to "workshop/2308283309/de_priscus_v2"
+L 03/15/2021 - 03:52:38: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 03:52:45: [randomcycle.smx] RandomCycle has chosen workshop/1591780701/de_iris for the nextmap.
+L 03/15/2021 - 04:14:31: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 04:14:51: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/2395038276/de_aztec_anc.
+L 03/15/2021 - 04:15:15: -------- Mapchange to workshop/2395038276/de_aztec_anc --------
+L 03/15/2021 - 04:15:22: [randomcycle.smx] RandomCycle has chosen workshop/2395038276/de_aztec_anc for the nextmap.
+L 03/15/2021 - 04:26:40: [SM] Changed map to "workshop/2395038276/de_aztec_anc"
+L 03/15/2021 - 04:26:42: -------- Mapchange to workshop/2395038276/de_aztec_anc --------
+L 03/15/2021 - 04:26:49: [randomcycle.smx] RandomCycle has chosen workshop/914280015/de_aqueduct for the nextmap.
+L 03/15/2021 - 04:27:07: -------- Mapchange to workshop/403493445/de_stgellert --------
+L 03/15/2021 - 04:27:14: [randomcycle.smx] RandomCycle has chosen workshop/455840012/de_venezia_4 for the nextmap.
+L 03/15/2021 - 04:45:37: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 04:45:45: -------- Mapchange to workshop/1204544481/de_aerospace --------
+L 03/15/2021 - 04:45:52: [randomcycle.smx] RandomCycle has chosen workshop/403493445/de_stgellert for the nextmap.
+L 03/15/2021 - 04:53:28: Log file closed.
+L 03/15/2021 - 04:56:17: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 04:56:17: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 04:59:12: Log file closed.
+L 03/15/2021 - 05:01:01: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 05:01:01: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 05:04:51: Log file closed.
+L 03/15/2021 - 05:14:41: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 05:14:41: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 05:16:32: Log file closed.
+L 03/15/2021 - 05:20:18: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 05:20:18: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 05:30:27: Log file closed.
+L 03/15/2021 - 05:31:12: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 05:31:12: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 05:34:59: Log file closed.
+L 03/15/2021 - 17:31:51: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 17:31:51: -------- Mapchange to de_dust2 --------
+L 03/15/2021 - 17:31:58: [randomcycle.smx] RandomCycle has chosen workshop/1591780701/de_iris for the nextmap.
+L 03/15/2021 - 17:34:09: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 17:34:11: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/2308283309/de_priscus_v2.
+L 03/15/2021 - 17:34:50: Log file closed.
+L 03/15/2021 - 17:38:01: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 17:38:01: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 17:38:40: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 17:38:47: [randomcycle.smx] RandomCycle has chosen workshop/1958745897/de_marine for the nextmap.
+L 03/15/2021 - 17:41:02: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 17:41:10: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/1720704256/de_village.
+L 03/15/2021 - 17:43:35: [SM] Changed map to "workshop/1720704256/de_village"
+L 03/15/2021 - 17:43:38: -------- Mapchange to workshop/1720704256/de_village --------
+L 03/15/2021 - 17:43:45: [randomcycle.smx] RandomCycle has chosen workshop/314261575/de_fuel_rc2 for the nextmap.
+L 03/15/2021 - 17:49:16: Log file closed.
+L 03/15/2021 - 17:57:59: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 17:57:59: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 17:59:29: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 17:59:36: [randomcycle.smx] RandomCycle has chosen workshop/455840012/de_venezia_4 for the nextmap.
+L 03/15/2021 - 18:02:31: Log file closed.
+L 03/15/2021 - 21:09:14: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 21:09:14: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 21:10:21: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 21:10:28: [randomcycle.smx] RandomCycle has chosen workshop/1720704256/de_village for the nextmap.
+L 03/15/2021 - 21:14:01: [mapchooser.smx] Starting map vote because outside request
+L 03/15/2021 - 21:14:01: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 21:14:06: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/455840012/de_venezia_4.
+L 03/15/2021 - 21:15:01: [SM] Changed map to "workshop/455840012/de_venezia_4"
+L 03/15/2021 - 21:15:02: -------- Mapchange to workshop/455840012/de_venezia_4 --------
+L 03/15/2021 - 21:15:08: [randomcycle.smx] RandomCycle has chosen workshop/1958745897/de_marine for the nextmap.
+L 03/15/2021 - 21:30:28: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 21:30:37: Log file closed.
+L 03/15/2021 - 21:35:35: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210315.log") (Version "1.10.0.6502")
+L 03/15/2021 - 21:35:35: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 21:36:13: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/15/2021 - 21:36:20: [randomcycle.smx] RandomCycle has chosen workshop/1591780701/de_iris for the nextmap.
+L 03/15/2021 - 21:37:04: [mapchooser.smx] Starting map vote because outside request
+L 03/15/2021 - 21:37:04: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 21:37:19: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/1958745897/de_marine.
+L 03/15/2021 - 21:38:19: [SM] Changed map to "workshop/1958745897/de_marine"
+L 03/15/2021 - 21:38:24: -------- Mapchange to workshop/1958745897/de_marine --------
+L 03/15/2021 - 21:38:31: [randomcycle.smx] RandomCycle has chosen workshop/914280015/de_aqueduct for the nextmap.
+L 03/15/2021 - 22:09:42: [mapchooser.smx] Starting map vote because outside request
+L 03/15/2021 - 22:09:42: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 22:09:51: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/225151817/de_bazaar.
+L 03/15/2021 - 22:09:57: [SM] Changed map to "workshop/225151817/de_bazaar"
+L 03/15/2021 - 22:09:59: -------- Mapchange to workshop/225151817/de_bazaar --------
+L 03/15/2021 - 22:10:06: [randomcycle.smx] RandomCycle has chosen workshop/403493445/de_stgellert for the nextmap.
+L 03/15/2021 - 22:44:06: [SM] Changed map to "workshop/403493445/de_stgellert"
+L 03/15/2021 - 22:44:09: -------- Mapchange to workshop/403493445/de_stgellert --------
+L 03/15/2021 - 22:44:16: [randomcycle.smx] RandomCycle has chosen workshop/2395038276/de_aztec_anc for the nextmap.
+L 03/15/2021 - 22:45:07: [mapchooser.smx] Starting map vote because outside request
+L 03/15/2021 - 22:45:07: [mapchooser.smx] Voting for next map has started.
+L 03/15/2021 - 22:45:28: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/914280015/de_aqueduct.
+L 03/15/2021 - 22:50:40: [SM] Changed map to "workshop/914280015/de_aqueduct"
+L 03/15/2021 - 22:50:41: -------- Mapchange to workshop/914280015/de_aqueduct --------
+L 03/15/2021 - 22:50:48: [randomcycle.smx] RandomCycle has chosen workshop/455840012/de_venezia_4 for the nextmap.
+L 03/16/2021 - 00:56:37: Log file closed.

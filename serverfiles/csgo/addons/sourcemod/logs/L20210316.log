@@ -1,0 +1,184 @@
+L 03/16/2021 - 00:56:37: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210316.log") (Version "1.10.0.6502")
+L 03/16/2021 - 00:56:37: Log file closed.
+L 03/16/2021 - 01:10:05: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210316.log") (Version "1.10.0.6502")
+L 03/16/2021 - 01:10:05: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/16/2021 - 01:14:29: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/16/2021 - 01:14:35: [randomcycle.smx] RandomCycle has chosen workshop/1958745897/de_marine for the nextmap.
+L 03/16/2021 - 01:15:07: Log file closed.
+L 03/16/2021 - 01:19:48: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210316.log") (Version "1.10.0.6502")
+L 03/16/2021 - 01:19:48: -------- Mapchange to de_dust2 --------
+L 03/16/2021 - 01:19:55: [randomcycle.smx] RandomCycle has chosen workshop/2395038276/de_aztec_anc for the nextmap.
+L 03/16/2021 - 01:20:05: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/16/2021 - 01:20:11: [randomcycle.smx] RandomCycle has chosen workshop/2308283309/de_priscus_v2 for the nextmap.
+L 03/16/2021 - 01:21:39: Log file closed.
+L 03/16/2021 - 01:23:14: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210316.log") (Version "1.10.0.6502")
+L 03/16/2021 - 01:23:14: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/16/2021 - 01:23:25: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/16/2021 - 01:23:31: [randomcycle.smx] RandomCycle has chosen workshop/1318698056/de_subzero for the nextmap.
+L 03/16/2021 - 01:24:00: [mapchooser.smx] Starting map vote because outside request
+L 03/16/2021 - 01:24:00: [mapchooser.smx] Voting for next map has started.
+L 03/16/2021 - 01:24:20: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/2423926054/de_inferno_destruct.
+L 03/16/2021 - 01:25:06: [SM] Changed map to "workshop/2423926054/de_inferno_destruct"
+L 03/16/2021 - 01:25:08: -------- Mapchange to workshop/2423926054/de_inferno_destruct --------
+L 03/16/2021 - 01:25:15: [randomcycle.smx] RandomCycle has chosen workshop/1591780701/de_iris for the nextmap.
+L 03/16/2021 - 01:42:22: [mapchooser.smx] Starting map vote because outside request
+L 03/16/2021 - 01:42:22: [mapchooser.smx] Voting for next map has started.
+L 03/16/2021 - 01:42:30: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/403493445/de_stgellert.
+L 03/16/2021 - 01:43:39: [SM] Changed map to "workshop/403493445/de_stgellert"
+L 03/16/2021 - 01:43:42: -------- Mapchange to workshop/403493445/de_stgellert --------
+L 03/16/2021 - 01:43:49: [randomcycle.smx] RandomCycle has chosen workshop/2308283309/de_priscus_v2 for the nextmap.
+L 03/16/2021 - 02:25:01: [mapchooser.smx] Voting for next map has started.
+L 03/16/2021 - 02:25:06: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/2395038276/de_aztec_anc.
+L 03/16/2021 - 02:27:13: [SM] Changed map to "workshop/2395038276/de_aztec_anc"
+L 03/16/2021 - 02:27:16: -------- Mapchange to workshop/2395038276/de_aztec_anc --------
+L 03/16/2021 - 02:27:24: [randomcycle.smx] RandomCycle has chosen workshop/1587622126/de_pyramid for the nextmap.
+L 03/16/2021 - 02:29:57: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 03/16/2021 - 02:30:08: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:25: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:26: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:26: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:26: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:26: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:26: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:26: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:27: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:27: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:27: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:27: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:27: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:27: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:28: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:28: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:28: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:28: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:28: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:29: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:29: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:29: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:29: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:29: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:29: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:30: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:31: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:31: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:31: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:31: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:31: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:32: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:32: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:32: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:32: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:32: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:33: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:34: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:34: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:34: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:35: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:35: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:35: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:35: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:36: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:36: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:36: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:36: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:36: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:37: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:37: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:37: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:37: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:37: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:38: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:38: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:38: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:38: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:39: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:41: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:41: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:41: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:41: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:42: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:42: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:42: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:42: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:42: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:42: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:43: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:43: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:43: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:43: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:44: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:44: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:44: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:45: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:45: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:45: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:45: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:46: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:46: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:46: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:31:56: [funcommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" set a FireBomb on "The Chad Aegis<51><STEAM_1:0:177583388><>"
+L 03/16/2021 - 02:32:23: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:33:00: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:34:04: [funcommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" set a FireBomb on "The Chad Aegis<51><STEAM_1:0:177583388><>"
+L 03/16/2021 - 02:35:20: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:36:19: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:36:20: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "Pizza<24><STEAM_1:1:102641283><>" (damage "0")
+L 03/16/2021 - 02:38:07: [basevotes.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" initiated a generic vote.
+L 03/16/2021 - 02:38:35: [basechat.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" triggered sm_tsay (text test)
+L 03/16/2021 - 02:38:50: [basechat.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" triggered sm_psay to "Pizza<24><STEAM_1:1:102641283><>" (text i)
+L 03/16/2021 - 02:39:17: [funvotes.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" initiated a gravity vote.
+L 03/16/2021 - 02:39:31: [funvotes.smx] Changing gravity to 1200 due to vote.
+L 03/16/2021 - 02:40:40: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slayed "beansquared<25><STEAM_1:0:147312192><>"
+L 03/16/2021 - 02:40:54: [funcommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" set a beacon on "PorkMAN<40><STEAM_1:0:156035152><>"
+L 03/16/2021 - 02:41:33: [basecommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" reset cvar (cvar "sv_gravity") (value "800")
+L 03/16/2021 - 02:42:47: [basechat.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" triggered sm_say (text plz no homosexuals)
+L 03/16/2021 - 02:43:38: [funcommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" ignited "Pizza<24><STEAM_1:1:102641283><>" (seconds "20.000000")
+L 03/16/2021 - 02:47:15: [funcommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" set a FireBomb on "Pizza<24><STEAM_1:1:102641283><>"
+L 03/16/2021 - 02:47:34: [funcommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" set a TimeBomb on "PorkMAN<40><STEAM_1:0:156035152><>"
+L 03/16/2021 - 02:48:24: [funcommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" set a TimeBomb on "Pizza<24><STEAM_1:1:102641283><>"
+L 03/16/2021 - 02:50:10: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" renamed "Pizza<24><STEAM_1:1:102641283><>" (to "Gaylord")
+L 03/16/2021 - 02:51:36: [mapchooser.smx] Starting map vote because outside request
+L 03/16/2021 - 02:51:36: [mapchooser.smx] Voting for next map has started.
+L 03/16/2021 - 02:51:41: [mapchooser.smx] Voting for next map has finished. Nextmap: workshop/314261575/de_fuel_rc2.
+L 03/16/2021 - 02:52:12: [SM] Changed map to "workshop/314261575/de_fuel_rc2"
+L 03/16/2021 - 02:52:13: -------- Mapchange to workshop/314261575/de_fuel_rc2 --------
+L 03/16/2021 - 02:52:20: [randomcycle.smx] RandomCycle has chosen workshop/2395038276/de_aztec_anc for the nextmap.
+L 03/16/2021 - 02:53:40: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:53:44: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "beansquared<25><STEAM_1:0:147312192><>" (damage "0")
+L 03/16/2021 - 02:53:45: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:53:45: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "beansquared<25><STEAM_1:0:147312192><>" (damage "0")
+L 03/16/2021 - 02:53:45: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:53:45: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "beansquared<25><STEAM_1:0:147312192><>" (damage "0")
+L 03/16/2021 - 02:54:54: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:55: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:55: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:56: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:56: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:56: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:57: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:57: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:58: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:58: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:59: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:59: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:59: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:54:59: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:55:00: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:55:00: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:55:00: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:55:00: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:55:01: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:55:01: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:55:02: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:55:02: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 02:55:04: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slapped "PorkMAN<40><STEAM_1:0:156035152><>" (damage "0")
+L 03/16/2021 - 03:05:31: [funcommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" set a TimeBomb on "Pizza<24><STEAM_1:1:102641283><>"
+L 03/16/2021 - 03:10:29: [playercommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" slayed "giantjohnson69<64><STEAM_1:0:225512424><>"
+L 03/16/2021 - 03:13:03: [funcommands.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" set a FireBomb on "giantjohnson69<64><STEAM_1:0:225512424><>"
+L 03/16/2021 - 03:20:18: [basevotes.smx] "⊗ Magma<2><STEAM_1:1:97420462><>" initiated a generic vote.
+L 03/16/2021 - 03:22:42: Log file closed.
+L 03/16/2021 - 16:33:41: SourceMod log file session started (file "/home/zalwicker/serverfiles/csgo/addons/sourcemod/logs/L20210316.log") (Version "1.10.0.6502")
+L 03/16/2021 - 16:33:41: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/16/2021 - 16:36:30: -------- Mapchange to workshop/2308283309/de_priscus_v2 --------
+L 03/16/2021 - 16:36:37: [randomcycle.smx] RandomCycle has chosen workshop/314261575/de_fuel_rc2 for the nextmap.
+L 03/16/2021 - 16:37:50: Log file closed.
